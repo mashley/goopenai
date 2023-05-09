@@ -8,7 +8,7 @@ Implemented methods can be found in the Interface.go file.
 
 ## Installation
 
-    go get github.com/franciscoescher/goopenai
+    go get github.com/mashley/goopenai
 
 ## Usage
 
@@ -28,7 +28,7 @@ package main
 import (
 	"context"
 	"fmt"
-	"github.com/franciscoescher/golinkedin"
+	"github.com/mashley/goopenai"
 )
 
 func main() {

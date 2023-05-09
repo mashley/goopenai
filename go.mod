@@ -1,4 +1,4 @@
-module github.com/franciscoescher/goopenai
+module github.com/mashley/goopenai
 
 go 1.18
 
